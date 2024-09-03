@@ -221,6 +221,7 @@ body {
     position: relative;
     width: 500px;
     background: rgba(255, 255, 255, .2);
+    box-shadow: 0 0 5px rgba(0, 0, 0, .3);
     border: 2px solid rgba(255, 255, 255, .3);
     border-radius: 6px;
     backdrop-filter: blur(10px);
