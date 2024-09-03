@@ -227,7 +227,6 @@ body {
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(3px);
     display: flex;
-    display: flex;
     flex-direction: column;
     padding: 20px 30px;
     opacity: 0;
